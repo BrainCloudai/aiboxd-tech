@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 87b356f7e7abad47a18c41fd9980039d45bd38f2 BrainCloudai <braincloudconsult@gmail.com> 1744056866 -0500	commit (initial): Initial commit for Aiboxd.tech SaaS
+87b356f7e7abad47a18c41fd9980039d45bd38f2 0000000000000000000000000000000000000000 BrainCloudai <braincloudconsult@gmail.com> 1744056868 -0500	Branch: renamed refs/heads/App to refs/heads/main
+0000000000000000000000000000000000000000 87b356f7e7abad47a18c41fd9980039d45bd38f2 BrainCloudai <braincloudconsult@gmail.com> 1744056868 -0500	Branch: renamed refs/heads/App to refs/heads/main
+87b356f7e7abad47a18c41fd9980039d45bd38f2 9fadae78e1d9e41bd3db176ca1876ae818b19f5b BrainCloudai <braincloudconsult@gmail.com> 1744075443 -0500	commit: Reinstall core dependencies for live build
+9fadae78e1d9e41bd3db176ca1876ae818b19f5b 25a9bf2f1c915f2c87d25952a297e9d880c587a2 BrainCloudai <braincloudconsult@gmail.com> 1744077122 -0500	commit: Add .gitignore and remove node_modules
+25a9bf2f1c915f2c87d25952a297e9d880c587a2 9fadae78e1d9e41bd3db176ca1876ae818b19f5b BrainCloudai <braincloudconsult@gmail.com> 1744077510 -0500	reset: moving to HEAD~1
+9fadae78e1d9e41bd3db176ca1876ae818b19f5b 5879d75f0519bdbc316b430b229e4da82dd43774 BrainCloudai <braincloudconsult@gmail.com> 1744077578 -0500	commit: Clean commit: exclude node_modules, fix large file error
